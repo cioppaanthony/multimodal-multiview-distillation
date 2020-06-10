@@ -78,7 +78,7 @@ pip install numpy==1.16.3 tqdm==4.23.1 h5py==2.9.0 matplotlib==3.0.3 opencv-pyth
 
 ### Installing the Dataset
 
-The dataset needs to be installed in the data folder. We provide a script for automatically downloading the dataset from a Google Drive repository. The dataset is shared only for scientific research purposes. Please, see the [License](LICENSE.txt) file that comes along the dataset.
+The dataset needs to be installed in the data folder. We provide a script for automatically downloading the dataset from a Google Drive repository. The dataset is shared only for scientific research purposes. Please, see the [License](data/LICENSE.txt) file that comes along the dataset.
 
 ```
 pip install -U pip setuptools
