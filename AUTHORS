@@ -1,0 +1,36 @@
+Copyright (c) 2020 holders: 
+
+- University of Liège (ULiège), Belgium.
+- Aalborg University (AAU), Denmark.
+- Marc Van Droogenbroeck (M.VanDroogenbroeck@uliege.be), Professor at the University of Liège (ULiège).
+- Thomas B. Moeslund (tbm@create.aau.dk), Professor at Aalborg University (AAU).
+
+
+Code Contributing Authors: 
+
+- Anthony Cioppa (anthony.cioppa@uliege.be), University of Liège (ULiège), Montefiore Institute, TELIM.
+	Code structure, training, evaluation, post-processing, data augmentation, data loading.
+- Adrien Deliège (adrien.deliege@uliege.be), University of Liège (ULiège), Montefiore Institute, TELIM.
+	Code architecture and no loss mask
+- Noor Ul Huda (nuh@create.aau.dk), Aalborg University (AAU), Visual Analysis of People Laboratory.
+	Camera registration
+
+
+Special thanks for their supervision to:
+
+- Rikke Gade, Aalborg University (AAU).
+- Marc Van Droogenbroeck, University of Liège (ULiège).
+- Thomas B. Moeslund, Aalborg University (AAU).
+
+
+To cite this repository, use the following bibtex entry:
+
+```bibtex
+@InProceedings{Cioppa2020Multimodal,
+  author = {Cioppa, Anthony and Deliège, Adrien and Huda, Noor Ul and Gade, Rikke and Van Droogenbroeck, Marc and Moeslund, Thomas B.},
+  title = {Multimodal and multiview distillation for real-time player detection on a football field},
+  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  month = {June},
+  year = {2020}
+}
+```

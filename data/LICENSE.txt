@@ -1,0 +1,11 @@
+Copyright (c) 2020 holders: 
+
+- Aalborg University (AAU), Denmark.
+- Thomas B. Moeslund (tbm@create.aau.dk), Professor at Aalborg University (AAU).
+
+
+This dataset is shared for educational and research purpose only. It and can only be used in combination with this code in its original intended purpose.
+
+It is forbidden share, distribute, re-post, add to, transform or change the dataset in any way.
+
+If you need another license, please contact: anthony.cioppa@uliege.be
