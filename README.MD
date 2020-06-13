@@ -18,6 +18,11 @@ The objective of this work is to monitor the occupancy of a football field using
 
 This repository provides every module needed to reproduce the main results of the paper on our dataset: the network architecture, the losses, the training procedure and the evaluation.
 
+For more information, check out our presentation video. To see more of our work, subscribe to our YouTube channel [__Acad AI Research__](https://www.youtube.com/channel/UCYkYA7OwnM07Cx78iZ6RHig?sub_confirmation=1)
+
+<a href="https://www.youtube.com/watch?v=7iEw4c_flxM">
+<p align="center"><img src="img/Miniature-multimodal-YouTube.png" width="720"></p>
+</a>
 
 ## Getting Started
 
